@@ -95,7 +95,7 @@ npm run tauri dev
 
 ---
 
-# Usage
+## Usage
 
 - Launch the application.  
 - Click the Push-to-Talk button to start recording.  
@@ -105,7 +105,7 @@ npm run tauri dev
 
 ---
 
-# Environment Variables
+## Environment Variables
 
 | Variable | Description |
 |-----------|--------------|
@@ -113,7 +113,7 @@ npm run tauri dev
 
 ---
 
-# Status
+## Status
 
 - Core push-to-talk workflow implemented  
 - End-to-end real-time transcription functional  
@@ -122,7 +122,7 @@ npm run tauri dev
 
 ---
 
-# Troubleshooting
+## Troubleshooting
 
 ### Microphone Not Working
 > Ensure microphone permissions are granted.  
