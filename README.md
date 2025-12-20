@@ -1,4 +1,4 @@
-# Push-to-Talk Transcription App (Tauri + Deepgram)
+# Push-to-Talk Desktop Transcription App (Tauri + Deepgram)
 
 A desktop push-to-talk transcription application built with Tauri that captures microphone audio, streams it to Deepgram in real time, and displays accurate, low-latency speech-to-text transcription.
 
