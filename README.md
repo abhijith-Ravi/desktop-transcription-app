@@ -6,6 +6,10 @@ This project prioritizes real-time streaming correctness, clean architecture, an
 
 ---
 
+## Demo video
+
+https://drive.google.com/file/d/1svEMPbIviM36lMLzAKqXK8wn6zfL-flp/view?usp=drive_link
+
 ## Introduction
 
 This app enables push-to-talk voice input with real-time transcription using Deepgram’s WebSocket API. Audio is captured from the microphone, streamed efficiently as PCM16, and transcriptions are returned and displayed with minimal latency.
